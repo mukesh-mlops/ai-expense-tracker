@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+expenses.db
+expenses_export.csv
+*.log
+.env
