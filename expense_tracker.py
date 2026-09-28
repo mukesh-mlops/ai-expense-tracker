@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # ══════════════════════════════════════════════════
-# P1 — AI-POWERED EXPENSE TRACKER
+# SMART EXPENSE TRACKER
 # github.com/mukesh-mlops/ai-expense-tracker
 # Built by: S. Mukesh Kumar
 # ══════════════════════════════════════════════════
